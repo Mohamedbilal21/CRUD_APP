@@ -1,24 +1,12 @@
-# CRUD_APP
-A simple and responsive User Admin Dashboard built using React and React-Bootstrap, featuring full CRUD (Create, Read, Update, Delete) operations.
-# 🧑‍💼 User Admin Dashboard – React + React-Bootstrap CRUD
+# React + Vite
 
-A simple, responsive **Admin Dashboard** built with **React** and **React-Bootstrap**, implementing full **CRUD operations** (Create, Read, Update, Delete) using REST API methods.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## ✨ Features
+Currently, two official plugins are available:
 
-- ✅ View user list in a styled Bootstrap table
-- ➕ Add new users via form
-- ✏️ Edit existing user details
-- ❌ Delete users with a single click
-- 🔄 Integrated with API using `GET`, `POST`, `PUT`, and `DELETE` methods
-- 🎨 Responsive design with clean UI
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
----
+## Expanding the ESLint configuration
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React, React-Bootstrap
-- **Language**: JavaScript (ES6+)
-- **API**: RESTful APIs / JSON Server (for mock data)
-
----
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

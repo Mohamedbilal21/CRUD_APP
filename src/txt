@@ -1,0 +1,8 @@
+1 => app.jsx oru state create pannanum 
+2 =>ethukuna dependency array la call panna 
+3 => athula false set pannanum
+4 => antha state va table ku props ah sent pannanum
+5 => antha table,dependecy array la intha state eh podanum
+6 => app.jsx la state and set state eh propsla popup ku sent pannanum
+7 => popup ulla receive pannitu
+8 => .then success la intha setstate eluthannum setState(!state);

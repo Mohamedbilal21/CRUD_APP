@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.703);
+}
+
+.title {
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.table-row {
+  font-size: 18px;
+  transition: all 0.3s;
+}
+
+.table-row:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  scale: 1.006;
+}
+
+table {
+  position: relative;
+}
+
+.add-user {
+  background-color: transparent;
+  border: 0;
+  border-radius: 50%;
+  font-size: 52px;
+  position: absolute;
+  right: -10px;
+  top: -40px;
+}
+.add-btn {
+  background-color: rgba(148, 247, 0, 0.68) !important;
+  border-radius: 10px;
+}
